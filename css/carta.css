@@ -1,6 +1,14 @@
 .carta{
-    font-weight: 1em;
-    list-style: none;
+    width: 1200px;
+    height: 670px;
+    margin: 50px auto;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
+}
+
+.carta embed{
+    width: 100%;
+    height: 100%;
+    border: none;
 }
