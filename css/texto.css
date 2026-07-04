@@ -9,6 +9,7 @@ h1{
     list-style: none;
     display: flex;
     justify-content: space-around;
+    color: rgb(12, 67, 135);
    
 }
 .rc1{
