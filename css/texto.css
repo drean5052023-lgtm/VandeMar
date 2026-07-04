@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    }
+.titulo{
+    font-family: "Nanum Gothic", sans-serif;
+    font-size: 2em;
+    font-style: normal;
+    font-weight: 0.5em;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+   
+}
+.rc1{
+    display: block;
+    margin: auto; 
+}

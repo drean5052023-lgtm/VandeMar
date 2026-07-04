@@ -1,0 +1,21 @@
+.menu-horizontal{
+    font-family: "Nanum Gothic", sans-serif;
+    font-weight: 1em;
+    list-style: none;
+    display: flex;
+    
+   
+}
+.menu-horizontal > li > a {
+    margin-left:0em;
+    margin-right: 0em;
+    display: block;
+    padding: 0.5em 0.5em;
+    color: rgb(189, 147, 9);
+    text-decoration: none;
+}
+
+.menu-horizontal > li:hover{
+    
+    background: skyblue;
+}

@@ -1,0 +1,6 @@
+.carta{
+    font-weight: 1em;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
