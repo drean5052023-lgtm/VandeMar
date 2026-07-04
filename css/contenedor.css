@@ -21,10 +21,10 @@
     font-style: normal;
     font-weight: 0.5em;
     position: absolute;
-    text-align: center;
-    padding: 0 250px;
-    top: 250px;
-    color: white;
+    text-align: start;
+    padding: 0 50px;
+    top: 50px;
+    color: rgb(0, 0, 0);
     }
 .contenedor img{
     width: 100%;
