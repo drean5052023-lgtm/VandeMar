@@ -16,7 +16,7 @@ header {
 nav{
     max-width: 50em;
     margin: 0 auto;
-    background-color: rgb(12, 67, 135);
+    background-color: rgb(255, 255, 255);
     font-size: 1.4em;
     margin-top: 1em;
     margin-right: 0;/*determina la posicion derecha de la etiqueta*/
