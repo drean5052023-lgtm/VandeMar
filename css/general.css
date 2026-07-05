@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(../imagenes/fondo.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+header {
+    display: flex; 
+    align-items: center; 
+    padding: 10px 20px; 
+    position: relative;
+    z-index: 1000;
+}
+nav{
+    max-width: 50em;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    font-size: 1.4em;
+    margin-top: 1em;
+    margin-right: 0;
+}
+.contacto{
+    margin: 1em 1em 1em 1em;
+    background-color: rgb(255, 255, 255);
+    font-family: "Nanum Gothic", sans-serif;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: 0.5em;
+    list-style: none;
+}
+h1{
+    margin-left: 1em;
+    text-align: left;
+    }
+h2{
+    margin-left: 2em;
+}
+.txt_c{
+    margin-left: 4em;  
+}
+.titulo{
+    color: rgb(12, 67, 135);
+}
+.rc1{
+    display: block;
+    margin: auto; 
+}
